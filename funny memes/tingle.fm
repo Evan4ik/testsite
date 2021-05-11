@@ -1,1 +1,7 @@
 // FM RADIO, BBC NEWS...
+
+var tingle = "your mom"
+
+function ass(lol) {
+console.log(lol)
+}
